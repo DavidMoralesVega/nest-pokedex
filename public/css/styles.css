@@ -1,7 +1,10 @@
-body  {
+
+
+html, body {
     padding: 20px;
-    background: grey;
+    background-color: grey;
 }
+
 h1 {
     font-size: 20px;
     color: white;
